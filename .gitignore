@@ -1,0 +1,10 @@
+package.zip
+node_modules
+.cdk.staging
+dist/
+cdk.out/
+cdk.context.json
+.cache
+.idea
+.vscode
+yarn-error.log
