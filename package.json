@@ -23,7 +23,7 @@
     "@aws-cdk/aws-lambda": "^1.18.0",
     "@aws-cdk/core": "^1.18.0",
     "aws-cdk": "^1.18.0",
-    "aws-sdk": "^2.584.0",
+    "aws-sdk": "^2.814.0",
     "@types/node": "^12.12.14",
     "typescript": "^3.7.3"
   }
